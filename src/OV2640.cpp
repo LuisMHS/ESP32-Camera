@@ -40,7 +40,7 @@ SOFTWARE.
 #include <fb_gfx.h>
 #include <esp32-hal-ledc.h>
 #include <sdkconfig.h>
-#include "camera_index.h"
+#include "Camera/camera_index.h"
 //-------------------------------------------------//
 
 
