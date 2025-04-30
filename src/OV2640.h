@@ -21,6 +21,16 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 */ 
+/*
+@Library:ESP32-Camera
+@author:
+-Luis Miguel Hernández Samaniego
+@Version Library: 0.0.1
+@Arduino: 2.3.6
+@ESP32 version:  3.2
+@date:  2025-04-30
+*/
+
 //-------------------------------------------------//
 #ifndef _OV2640_H
 #define _OV2640_H
