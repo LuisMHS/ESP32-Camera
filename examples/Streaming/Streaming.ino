@@ -9,6 +9,7 @@ OV2640 camara;
 
 //-----------------Constante------------------------//
 //colocar SSID y clave de seguridad de red PASSWORD
+//Banda de Red: 2.4GHz
 const char *SSID = "Taller robotica";
 const char *PASSWORD = ".*89LuisUnivLM";
 //-------------------------------------------------//
