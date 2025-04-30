@@ -40,7 +40,7 @@ SOFTWARE.
 #include <Arduino.h>
 #include <esp_camera.h>
 #include <WiFi.h>
-#include "camera_pins.h"
+#include "camera/camera_pins.h"
 #include <SD_MMC.h>
 //-------------------------------------------------//
 void streaming_video();
