@@ -1,3 +1,12 @@
+/*
+@Library:ESP32-Camera
+@author:
+-Luis Miguel Hernández Samaniego
+@Version Library: 0.0.1
+@Arduino: 2.3.6
+@ESP32 version:  3.2
+@date:  2025-05-02
+*/
 //----------------------Header---------------------//
 //Incluir el archivo OV2640.h de la librería ESP32-Camera
 #include <OV2640.h>
