@@ -18,6 +18,7 @@ OV2640 camara;
 
 //-----------------Constante------------------------//
 //colocar SSID y clave de seguridad de red PASSWORD
+//Insertar la SD card a la tarjeta inalámbrica 
 //Banda de Red: 2.4GHz
 const char *SSID = "Taller robotica";
 const char *PASSWORD = ".*89LuisUnivLM";
